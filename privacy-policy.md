@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 **Privacy Policy**
 
 nekowen built the CatsAge app as a Free app. This SERVICE is provided by nekowen at no cost and is intended for use as is.
